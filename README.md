@@ -1,4 +1,4 @@
-# WebSocket Echo Server
+# WebSocket Server
 ---
 ## Project Description
 The WebSocket Echo Server is a lightweight and efficient application designed to demonstrate real-time communication between a client and server using WebSocket technology. It showcases a minimalistic architecture where the server echoes any message it receives back to the client.
@@ -27,10 +27,6 @@ This project emphasizes simplicity and efficiency, showcasing how to build a Web
  ```   
 git clone https://github.com/SebastianPE0/JS_WebSocket.git
    ```
-
-  ```
-cd WebSocketEchoServer
-  ```
 
   - Install Dependencies:
     
